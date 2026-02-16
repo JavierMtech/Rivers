@@ -25,4 +25,7 @@ Pequeño proyecto de análisis de datos sobre un dataset de ríos aleatorios. Se
 
 5. Modelado predictivo usando un modelo CatBoost Regressor.
 
-## Resultaods y COnclusiones
+## Resultados y Conclusiones
+- El caudal (discharge) total se concentra principalmente en ríos de categorías mayores, mostrando una distribución desigual entre tipos.
+- Existe una relación general positiva entre longitud y caudal, aunque con alta variabilidad.
+- El uso combinado de Python, SQL y Power BI permitió construir un flujo completo de análisis desde limpieza hasta visualización.
